@@ -22,7 +22,7 @@ http://randycoulman.com/blog/2016/06/07/thinking-in-ramda-partial-application/
 http://randycoulman.com/blog/2016/06/14/thinking-in-ramda-declarative-programming/
 
 You can refer to Ramda documentation here: http://ramdajs.com/docs/#
-and also this useful cookbook: https://github.com/ramda/ramda/wiki/What-Function-Should-I-Use
+and also this useful cookbook: https://github.com/ramda/ramda/wiki/What-Function-Should-I-Use%3F
 
 Now you can proceed to attempt the test below:
 

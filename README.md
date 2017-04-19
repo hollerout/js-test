@@ -22,6 +22,7 @@ http://randycoulman.com/blog/2016/06/07/thinking-in-ramda-partial-application/
 http://randycoulman.com/blog/2016/06/14/thinking-in-ramda-declarative-programming/
 
 You can refer to Ramda documentation here: http://ramdajs.com/docs/#
+and also this useful cookbook: https://github.com/ramda/ramda/wiki/What-Function-Should-I-Use
 
 Now you can proceed to attempt the test below:
 
@@ -51,6 +52,11 @@ const orders = {
     id: '9xkMsn2',
     price: 99,
     status: 'closed'
+  },
+  lotteria: {
+    id: 'jf8sh3',
+    price: 38,
+    status: 'new'
   }
 }
 ```
@@ -59,7 +65,6 @@ const orders = {
 2) Write a function using Ramda pipe that takes a single argument orders and return the total price of all pending orders.
 3) Write a function using Ramda pipe that takes a single argument orders and return the total price of all closed orders.
 4) Write a *curried* function that takes two arguments (status and orders) and return the total price in orders of the given status. eg. `totalPriceInOrdersByStatus('new')(orders) // => total price of all new orders``
-
-Refactor your 2nd and 3rd functions with your 4th functions.
+5) Refactor your 2nd and 3rd functions with your 4th function.
 
 Note: Please refactor your code before submission for the fairest evaluation.

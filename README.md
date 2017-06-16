@@ -1,5 +1,5 @@
-# Future Workz Javascript Technical Test
-Welcome to Future Workz Javascript technical test! This test presumes you have knowledge of Javascipt and some ES6 syntax such as the arrow function syntax (eg. () => {}).
+# Javascript Technical Test
+Welcome to our Javascript technical test! This test presumes you have knowledge of Javascipt and some ES6 syntax such as the arrow function syntax (eg. () => {}).
 
 ## Test Overview
 We will be learning to do some functional programming using Javascript today! In its essence, functional programming is simply just using functions to build our application instead of using objects and classes. The main advantages we have using functional programming are greater code reuability, easier testing, and clearer/cleaner code leading to better maintainability and developer happiness.
